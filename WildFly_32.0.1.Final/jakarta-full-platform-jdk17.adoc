@@ -535,9 +535,9 @@ Test name: xa
 
 === Additional standalone TCK Test results
 
-https://download.eclipse.org/jakartaee/activation/2.1/jakarta-activation-tck-2.1.0.zip[Jakarta Activation 2.1 TCK]
+https://download.eclipse.org/jakartaee/activation/2.1/jakarta-activation-tck-2.1.2.zip[Jakarta Activation 2.1 TCK]
 
-SHA-256: `6c4aad27e45761dd9f3e0f8506f37edea41f42401465db750689145718b27a0b`
+SHA-256: `fdfbb2f8979e8b27114364fca0848a4a104be33ab0b0f70bdf435e714a2ba742`
 
 TCK result summary:
 ----
@@ -584,9 +584,9 @@ TCK result summary:
 [INFO] Tests run: 1045, Failures: 0, Errors: 0, Skipped: 0
 ----
 
-https://download.eclipse.org/jakartaee/concurrency/3.0/concurrency-tck-3.0.2.zip[Jakarta Concurrency 3.0.2 TCK]
+https://download.eclipse.org/jakartaee/concurrency/3.0/concurrency-tck-3.0.3.zip[Jakarta Concurrency 3.0.3 TCK]
 
-SHA-256: `22728d729f620d6a85ae903e7d1184e0a7508a4328491b785f1b4f3d7215ca93`
+SHA-256: `dd1b4659b5368447bacc2ea0134472fbd4bb3400c9883cfb98ab841378b4f9ca`
 
 TCK result summary:
 ----
@@ -594,7 +594,7 @@ TCK result summary:
 [INFO] Tests run: 149, Failures: 0, Errors: 0, Skipped: 0
 ----
 
-https://download.eclipse.org/jakartaee/cdi/4.0/cdi-tck-4.0.13-dist.zip[Jakarta Contexts and Dependency Injection 4.0.12 TCK]
+https://download.eclipse.org/jakartaee/cdi/4.0/cdi-tck-4.0.13-dist.zip[Jakarta Contexts and Dependency Injection 4.0.13 TCK]
 
 SHA-256: `566c547e1a9c66792eefcc6feafea87ab0c0f2e3f71385bf96865359a685df00`
 
